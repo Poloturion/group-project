@@ -1,7 +1,5 @@
 <?php
-
 session_start();
-
 function make_header() {
 ?>
 <!DOCTYPE html>
@@ -44,4 +42,15 @@ function make_header() {
     <img style="max-width: 50px" src="shopping-cart-solid.svg"/>
   </div>
 </nav>
+
+<body>
+    
+
+
+
+
+
+<?php
+}
+?>
 
