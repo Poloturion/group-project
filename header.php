@@ -40,15 +40,3 @@ function make_header() {
   </div>
 </nav>
 
-<body>
-    
-
-
-
-
-
-<?php
-}
-
-
-?>
