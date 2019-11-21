@@ -15,7 +15,7 @@ if($result = mysqli_query($conn, $category_query)) {
     echo("there are ".$numrows." categories"); 
 }
 
-includes("landing.php");
+include("landing.php");
 
 
 
